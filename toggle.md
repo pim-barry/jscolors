@@ -8,4 +8,6 @@
 # OnClick
 
 * [Howto: div with onclick inside another div with onclick javascript - Stack Overflow](https://stackoverflow.com/questions/2385113/howto-div-with-onclick-inside-another-div-with-onclick-javascript)
+* [Fiddle/stop (`stopPropagation, preventDefault`)](http://jsfiddle.net/jensbits/Lrrys/)
+* [Pen/spanish (`stopPropagation`)](https://codepen.io/felquis/pen/oXYdEz) and [translated](https://codepen.io/anon/pen/GyPabq)
 
