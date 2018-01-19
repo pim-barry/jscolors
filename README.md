@@ -1,10 +1,15 @@
 # Code playgrounds
 
+* [JSfiddle](https://jsfiddle.net)
 * [7 of the Best Code Playgrounds — SitePoint](https://www.sitepoint.com/7-code-playgrounds/)
 * [8 Code Playgrounds to Test your JavaScript Applications and Skills](https://blog.jscrambler.com/8-code-playgrounds-to-test-your-javascript-applications-and-skills/)
 
 # CSS Classes
 
+* [adamkhoury's video](http://www.developphp.com/video/JavaScript/Change-CSS-Class-Style-className-Toggle-Tutorial)
+* [John Resig - getElementsByClassName Speed Comparison](https://johnresig.com/blog/getelementsbyclassname-speed-comparison/)
+* [getElementsByClassName() with two classes - Stack Overflow](https://stackoverflow.com/questions/37255293/getelementsbyclassname-with-two-classes)
+* [CSS rule to apply only if element has BOTH classes - Stack Overflow](https://stackoverflow.com/questions/5796654/css-rule-to-apply-only-if-element-has-both-classes/5796669)
 * [.toggleClass() | jQuery API Documentation](http://api.jquery.com/toggleclass/)
 * [How to Add/Remove CSS classes using JavaScript | appendTo](https://appendto.com/2016/02/addremove-css-classes-using-javascript/)
 * [Howto: div with onclick inside another div with onclick javascript - Stack Overflow](https://stackoverflow.com/questions/2385113/howto-div-with-onclick-inside-another-div-with-onclick-javascript)
