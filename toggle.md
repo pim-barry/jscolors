@@ -2,5 +2,5 @@
 
 
 * [Adamkhoury Video](http://www.developphp.com/video/JavaScript/Change-CSS-Class-Style-className-Toggle-Tutorial) using: `getElementById()`, `.children` and `.className`.
-	* A)[Pen/Toggle (elementwise)](https://codepen.io/anon/pen/LeMoZg)
+	* A) [Pen/Toggle (elementwise)](https://codepen.io/anon/pen/LeMoZg)
 	* B) [Pen/Toggle (arraywise)](https://codepen.io/anon/pen/ppqmeP)
